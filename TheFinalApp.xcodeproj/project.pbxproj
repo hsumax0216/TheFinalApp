@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9CF4538522B0287A00B8461B /* BusTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CF4538422B0287A00B8461B /* BusTableViewController.swift */; };
 		F904C43A22AC2480005769EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F904C43922AC2480005769EE /* AppDelegate.swift */; };
 		F904C43C22AC2480005769EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F904C43B22AC2480005769EE /* ViewController.swift */; };
 		F904C43F22AC2480005769EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F904C43D22AC2480005769EE /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9CF4538422B0287A00B8461B /* BusTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusTableViewController.swift; sourceTree = "<group>"; };
 		F904C43622AC2480005769EE /* TheFinalApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheFinalApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F904C43922AC2480005769EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F904C43B22AC2480005769EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				F904C43922AC2480005769EE /* AppDelegate.swift */,
 				F904C43B22AC2480005769EE /* ViewController.swift */,
 				F904C43D22AC2480005769EE /* Main.storyboard */,
+				9CF4538422B0287A00B8461B /* BusTableViewController.swift */,
 				F904C44022AC2482005769EE /* Assets.xcassets */,
 				F904C44222AC2482005769EE /* LaunchScreen.storyboard */,
 				F904C44522AC2482005769EE /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				F904C43C22AC2480005769EE /* ViewController.swift in Sources */,
 				F904C43A22AC2480005769EE /* AppDelegate.swift in Sources */,
+				9CF4538522B0287A00B8461B /* BusTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
